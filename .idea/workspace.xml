@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e698aed-bcb9-4164-a210-9e6446f5c116" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/low-code/low-code-demo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/low-code/low-code-demo/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +35,16 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="2Bl0c5GPrX6yJvAs6JQX3xC5Ra2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -53,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657465441519</updated>
-      <workItem from="1657465442772" duration="467000" />
+      <workItem from="1657465442772" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add low-code-project">
       <created>1657465801211</created>
@@ -69,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657465869358</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update config">
+      <created>1657465946447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657465946447</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,14 +98,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: add low-code-project" />
     <MESSAGE value="update config" />
     <option name="LAST_COMMIT_MESSAGE" value="update config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1657465809547">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1657465950866">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1657465809547" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1657465950866" />
   </component>
 </project>
